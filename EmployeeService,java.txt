@@ -1,7 +1,0 @@
-public interface EmployeeService {
-    void createEmployee(Employee employee);
-    Employee retrieveEmployee(int id);
-    List<Employee> retrieveAllEmployees();
-    void modifyEmployee(Employee employee);
-    void removeEmployee(int id);
-}
